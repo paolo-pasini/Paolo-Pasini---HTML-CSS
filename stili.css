@@ -379,22 +379,3 @@ h4 {
   box-shadow: 0 0 5px #CCCCCC, 1px 1px 0 #FFFFFF inset, -1px -1px 0 #FFFFFF inset, 0 0 15px #DDDDDD inset;
 
 }
-
-@media only screen and (max-width: 400px) {
-  body {
-    background-color: #F09A9D; /* Red */
-  }
-}
-
-/* Tablet Styles */
-@media only screen and (min-width: 401px) and (max-width: 960px) {
-  .sign-up,
-  .feature-1,
-  .feature-2,
-  .feature-3 {
-    width: 50%;
-  }
-}
-
-/* Desktop Styles */
-@media only screen and (min-width: 961px) {
